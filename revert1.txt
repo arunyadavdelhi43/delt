@@ -1,6 +1,3 @@
 commit1
-<<<<<<< HEAD
 commit2
 commit3
-=======
->>>>>>> parent of dd65740... commit2
